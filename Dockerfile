@@ -1,3 +1,3 @@
 FROM maven
 WORKDIR /root
-RUN touch test.txt
+RUN echo "hello word"
